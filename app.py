@@ -1,5 +1,3 @@
-"""Aplicación Flask de EcoTij para Codespaces."""
-
 from __future__ import annotations
 
 import os
